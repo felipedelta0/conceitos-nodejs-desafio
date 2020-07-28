@@ -15,7 +15,7 @@
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) for the first challenge on NodeJS using Ubuntu 20.04 OS.
 
-In order to use this, you'll need to have Git, Node.js v12.18 or higher and Yarn v1.22 or higher installed.
+In order to use this, you'll need to have [Git](https://git-scm.com/), [Node.js v12.18.3](https://nodejs.org/) or higher and [Yarn v1.22](https://classic.yarnpkg.com/) or higher installed.
 
 On the terminal, run this:
 
